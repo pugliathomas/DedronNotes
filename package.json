@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.119.0"
-  }
+  },
+  "name": "dedronnotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pugliathomas/DedronNotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pugliathomas/DedronNotes/issues"
+  },
+  "homepage": "https://github.com/pugliathomas/DedronNotes#readme",
+  "description": ""
 }
